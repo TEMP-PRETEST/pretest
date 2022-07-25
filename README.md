@@ -31,8 +31,8 @@
 - java, git 은 설치 되어 있어야 한다.
 
 ```bash
-$ git clone https://github.com/TEST/test.git
-$ cd test
+$ git clone https://github.com/TEMP-PRETEST/pretest.git
+$ cd pretest
 $ ./gradlew clean build
 $ java -jar ./build/libs/pretest-0.0.1-SNAPSHOT.jar
 ```
