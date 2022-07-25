@@ -1,13 +1,13 @@
 ### 검색 API 호출 (검색어 : 곱창)
 GET http://localhost:8080/api/search/local?query=곱창
 
-### 검색 API 호출 (검색어 : 곱창)
+### 검색 API 호출 (검색어 : 은행)
 GET http://localhost:8080/api/search/local?query=은행
 
-### 검색 API 호출 (검색어 : 곱창)
+### 검색 API 호출 (검색어 : 라면)
 GET http://localhost:8080/api/search/local?query=라면
 
-### 검색 API 호출 (검색어 : 곱창)
+### 검색 API 호출 (검색어 : 박지호)
 GET http://localhost:8080/api/search/local?query=박지호
 
 ### 검색 API 호출 에러 응답 (400)
